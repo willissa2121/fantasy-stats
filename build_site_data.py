@@ -203,6 +203,18 @@ def build() -> dict:
         )
     players.sort(key=lambda player: (-player["career"]["gp"], player["name"]))
     current_season = seasons[-1]
+
+    def latest_week(season: int) -> int:
+        return max(
+            (
+                game["week"]
+                for games in games_by_player.values()
+                for game in games
+                if game["season"] == season
+            ),
+            default=0,
+        )
+
     return {
         "league": {
             "name": "League History",
@@ -212,16 +224,12 @@ def build() -> dict:
         "players": players,
         "stats": {
             "current_season": current_season,
-            "through_week": max(
-                (
-                    game["week"]
-                    for games in games_by_player.values()
-                    for game in games
-                    if game["season"] == current_season
-                ),
-                default=0,
-            ),
-            "this_season": build_awards(games_by_player, current_season, min_gp=4),
+            "through_week": latest_week(current_season),
+            "through_weeks": {str(season): latest_week(season) for season in seasons},
+            "by_season": {
+                str(season): build_awards(games_by_player, season, min_gp=4)
+                for season in seasons
+            },
             "all_time": build_awards(games_by_player, None, min_gp=20),
         },
     }

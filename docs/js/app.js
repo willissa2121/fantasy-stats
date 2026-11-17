@@ -425,15 +425,23 @@ async function bootStats() {
     const copy = document.getElementById("hero-copy");
     const select = document.getElementById("scope");
     const current = league.stats.current_season;
-    const week = league.stats.through_week;
-    select.querySelector('option[value="this_season"]').textContent =
-      `This season (${current})`;
+    const years = [...league.league.seasons].sort((a, b) => b - a);
+    select.innerHTML = [
+      ...years.map((year) => `<option value="${year}">${year}</option>`),
+      `<option value="all_time">All time</option>`,
+    ].join("");
+    select.value = String(current);
     const draw = () => {
       const allTime = select.value === "all_time";
-      copy.textContent = allTime
-        ? `Every season from ${league.league.seasons[0]}–${current}`
-        : `${current} regular season · through week ${week}`;
-      renderAwards(allTime ? league.stats.all_time : league.stats.this_season);
+      if (allTime) {
+        copy.textContent = `Every season from ${years[years.length - 1]}–${current}`;
+        renderAwards(league.stats.all_time);
+        return;
+      }
+      const year = select.value;
+      const week = (league.stats.through_weeks || {})[year] || league.stats.through_week;
+      copy.textContent = `${year} regular season · through week ${week}`;
+      renderAwards((league.stats.by_season || {})[year] || []);
     };
     bindAwardExpand(root);
     select.addEventListener("change", draw);
