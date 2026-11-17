@@ -230,12 +230,12 @@ function renderPlayer(player) {
         <div class="player-id">
           <h1>${player.name}</h1>
           <div class="team">${player.latest_team} · ${yearsLabel(player)}</div>
-          <dl class="facts">
-            <dt>Seasons</dt><dd>${player.seasons.length}</dd>
-            <dt>Games</dt><dd>${player.career.gp}</dd>
-            <dt>Debut</dt><dd>${player.first_season}</dd>
-            <dt>Record</dt><dd>${player.career.record}</dd>
-          </dl>
+          <div class="fact-row">
+            <div class="fact"><span>Seasons</span><b>${player.seasons.length}</b></div>
+            <div class="fact"><span>Games</span><b>${player.career.gp}</b></div>
+            <div class="fact"><span>Debut</span><b>${player.first_season}</b></div>
+            <div class="fact"><span>Record</span><b>${player.career.record}</b></div>
+          </div>
         </div>
         <aside class="statbox">
           <h2>Career Stats</h2>
@@ -327,7 +327,7 @@ function followRow(entry, rank) {
       </div>
       ${whoHtml(entry)}
       <div class="leader-stat">${entry.value}</div>
-      <span class="leader-toggle" aria-hidden="true"></span>
+      <span class="leader-toggle is-empty" aria-hidden="true"></span>
     </div>
   `;
 }
