@@ -1,0 +1,14 @@
+Wk	Opponent	Result	Score	 
+1	logo Suck My Ditka	Loss	115.52 - 129.50	
+2	logo Brownin Out	Loss	95.42 - 102.56	
+3	logo Auto Draft	Loss	105.26 - 121.66	
+4	logo scott's Team	Win	96.70 - 77.18	
+5	logo Jake Top Luke Bottom	Win	134.84 - 105.24	
+6	logo Area 51 Survivor	Loss	82.22 - 113.22	
+7	logo Kirkland Paleskins	Loss	49.24 - 114.96	
+8	logo Gin n’ JuJuice	Loss	99.66 - 114.32	
+9	logo Full Chubb	Win	128.92 - 119.32	
+10	logo No One	Loss	101.72 - 115.42	
+11	logo Luke's Optimal Team	Loss	92.48 - 92.56	
+12	logo Suck My Ditka	Win	116.46 - 112.88	
+13	logo Brownin Out	Win	96.60 - 89.20

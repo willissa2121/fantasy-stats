@@ -1,0 +1,163 @@
+{
+  "season": 2023,
+  "week": 11,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck my Ditka",
+          "score": 98.6,
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "result": "loss"
+        },
+        {
+          "username": "zach",
+          "team_name": "Sun God Disciples",
+          "score": 118.94,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 20.34,
+      "winner": "zach"
+    },
+    {
+      "teams": [
+        {
+          "username": "chris",
+          "team_name": "Metcalf Mojo",
+          "score": 97.72,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        },
+        {
+          "username": "jake",
+          "team_name": "DubbaKaj",
+          "score": 70.44,
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 27.28,
+      "winner": "chris"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Barney’s Tail",
+          "score": 128.18,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "win"
+        },
+        {
+          "username": "jared",
+          "team_name": "Golden Taint",
+          "score": 75.96,
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 52.22,
+      "winner": "corey"
+    },
+    {
+      "teams": [
+        {
+          "username": "derrick",
+          "team_name": "The Sex Panthers",
+          "score": 86.54,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "win"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "No One",
+          "score": 83.1,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 3.44,
+      "winner": "derrick"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Wallerus",
+          "score": 91.1,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        },
+        {
+          "username": "scott",
+          "team_name": "Scott's Tots",
+          "score": 109.16,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 18.06,
+      "winner": "scott"
+    },
+    {
+      "teams": [
+        {
+          "username": "kelly",
+          "team_name": "K9 Unit",
+          "score": 97.12,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        },
+        {
+          "username": "luke",
+          "team_name": "The Alien Boyz",
+          "score": 126.0,
+          "record": {
+            "wins": 12,
+            "losses": 2
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 28.88,
+      "winner": "luke"
+    }
+  ],
+  "source": "data/2023"
+}

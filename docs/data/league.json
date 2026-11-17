@@ -1,0 +1,3726 @@
+{
+  "league": {
+    "name": "League History",
+    "seasons": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "current_season": 2026
+  },
+  "players": [
+    {
+      "id": "aj",
+      "name": "AJ",
+      "aliases": [
+        "aj",
+        "AGarza509"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "RIPMyDitka",
+      "career": {
+        "gp": 119,
+        "wins": 56,
+        "losses": 63,
+        "ties": 0,
+        "record": "56-63",
+        "win_pct": 0.471,
+        "pf": 12747.26,
+        "pa": 12604.7,
+        "ppg": 107.12,
+        "papg": 105.92,
+        "diff": 1.2,
+        "high": 167.44,
+        "low": 54.24
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "record": "7-7",
+          "win_pct": 0.5,
+          "pf": 1550.7,
+          "pa": 1547.88,
+          "ppg": 110.76,
+          "papg": 110.56,
+          "diff": 0.2,
+          "high": 137.9,
+          "low": 72.32,
+          "season": 2018,
+          "team": "Suck My Ditka"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1343.5,
+          "pa": 1294.18,
+          "ppg": 103.35,
+          "papg": 99.55,
+          "diff": 3.79,
+          "high": 148.44,
+          "low": 68.48,
+          "season": 2019,
+          "team": "Suck My Ditka"
+        },
+        {
+          "gp": 13,
+          "wins": 3,
+          "losses": 10,
+          "ties": 0,
+          "record": "3-10",
+          "win_pct": 0.231,
+          "pf": 1272.38,
+          "pa": 1534.4,
+          "ppg": 97.88,
+          "papg": 118.03,
+          "diff": -20.16,
+          "high": 133.08,
+          "low": 54.24,
+          "season": 2020,
+          "team": "Suck My Ditka"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1390.66,
+          "pa": 1472.82,
+          "ppg": 99.33,
+          "papg": 105.2,
+          "diff": -5.87,
+          "high": 119.56,
+          "low": 69.14,
+          "season": 2021,
+          "team": "Suck my Ditka"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1517.32,
+          "pa": 1424.46,
+          "ppg": 108.38,
+          "papg": 101.75,
+          "diff": 6.63,
+          "high": 158.7,
+          "low": 77.04,
+          "season": 2022,
+          "team": "Suck my Ditka"
+        },
+        {
+          "gp": 14,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "record": "7-7",
+          "win_pct": 0.5,
+          "pf": 1456.76,
+          "pa": 1494.96,
+          "ppg": 104.05,
+          "papg": 106.78,
+          "diff": -2.73,
+          "high": 137.22,
+          "low": 67.94,
+          "season": 2023,
+          "team": "Suck my Ditka"
+        },
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1551.42,
+          "pa": 1431.86,
+          "ppg": 110.82,
+          "papg": 102.28,
+          "diff": 8.54,
+          "high": 157.3,
+          "low": 62.04,
+          "season": 2024,
+          "team": "Suck my Ditka"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1565.56,
+          "pa": 1315.82,
+          "ppg": 120.43,
+          "papg": 101.22,
+          "diff": 19.21,
+          "high": 165.84,
+          "low": 84.66,
+          "season": 2025,
+          "team": "SuckMyDitka"
+        },
+        {
+          "gp": 10,
+          "wins": 4,
+          "losses": 6,
+          "ties": 0,
+          "record": "4-6",
+          "win_pct": 0.4,
+          "pf": 1098.96,
+          "pa": 1088.32,
+          "ppg": 109.9,
+          "papg": 108.83,
+          "diff": 1.06,
+          "high": 167.44,
+          "low": 61.5,
+          "season": 2026,
+          "team": "RIPMyDitka"
+        }
+      ]
+    },
+    {
+      "id": "corey",
+      "name": "Corey",
+      "aliases": [
+        "corey",
+        "SlikkNuttington"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "George DUBYA Busherton",
+      "career": {
+        "gp": 119,
+        "wins": 60,
+        "losses": 59,
+        "ties": 0,
+        "record": "60-59",
+        "win_pct": 0.504,
+        "pf": 12592.16,
+        "pa": 12283.0,
+        "ppg": 105.82,
+        "papg": 103.22,
+        "diff": 2.6,
+        "high": 172.3,
+        "low": 49.24
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 3,
+          "losses": 11,
+          "ties": 0,
+          "record": "3-11",
+          "win_pct": 0.214,
+          "pf": 1414.82,
+          "pa": 1632.46,
+          "ppg": 101.06,
+          "papg": 116.6,
+          "diff": -15.55,
+          "high": 129.44,
+          "low": 68.04,
+          "season": 2018,
+          "team": "Baby Shreks"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1315.04,
+          "pa": 1408.02,
+          "ppg": 101.16,
+          "papg": 108.31,
+          "diff": -7.15,
+          "high": 134.84,
+          "low": 49.24,
+          "season": 2019,
+          "team": "Barney’s Tail"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1410.26,
+          "pa": 1276.46,
+          "ppg": 108.48,
+          "papg": 98.19,
+          "diff": 10.29,
+          "high": 153.3,
+          "low": 72.04,
+          "season": 2020,
+          "team": "Barney’s Tail"
+        },
+        {
+          "gp": 14,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "record": "10-4",
+          "win_pct": 0.714,
+          "pf": 1689.58,
+          "pa": 1434.82,
+          "ppg": 120.68,
+          "papg": 102.49,
+          "diff": 18.2,
+          "high": 172.3,
+          "low": 79.14,
+          "season": 2021,
+          "team": "Barney’s Tail"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1510.6,
+          "pa": 1438.24,
+          "ppg": 107.9,
+          "papg": 102.73,
+          "diff": 5.17,
+          "high": 140.12,
+          "low": 90.3,
+          "season": 2022,
+          "team": "Barney’s Tail"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1369.68,
+          "pa": 1435.28,
+          "ppg": 97.83,
+          "papg": 102.52,
+          "diff": -4.69,
+          "high": 128.64,
+          "low": 58.74,
+          "season": 2023,
+          "team": "Barney’s Tail"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1583.34,
+          "pa": 1442.06,
+          "ppg": 113.1,
+          "papg": 103.0,
+          "diff": 10.09,
+          "high": 159.94,
+          "low": 85.4,
+          "season": 2024,
+          "team": "George DUB-YA Busherton"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1267.22,
+          "pa": 1209.38,
+          "ppg": 97.48,
+          "papg": 93.03,
+          "diff": 4.45,
+          "high": 133.86,
+          "low": 62.84,
+          "season": 2025,
+          "team": "George DUBYA Busherton"
+        },
+        {
+          "gp": 10,
+          "wins": 5,
+          "losses": 5,
+          "ties": 0,
+          "record": "5-5",
+          "win_pct": 0.5,
+          "pf": 1031.62,
+          "pa": 1006.28,
+          "ppg": 103.16,
+          "papg": 100.63,
+          "diff": 2.53,
+          "high": 154.02,
+          "low": 64.26,
+          "season": 2026,
+          "team": "George DUBYA Busherton"
+        }
+      ]
+    },
+    {
+      "id": "jake",
+      "name": "Jake",
+      "aliases": [
+        "jake",
+        "jakebuddyy"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "Im Gonna Plumb",
+      "career": {
+        "gp": 119,
+        "wins": 56,
+        "losses": 63,
+        "ties": 0,
+        "record": "56-63",
+        "win_pct": 0.471,
+        "pf": 12252.32,
+        "pa": 12408.48,
+        "ppg": 102.96,
+        "papg": 104.27,
+        "diff": -1.31,
+        "high": 156.68,
+        "low": 51.1
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1495.26,
+          "pa": 1572.64,
+          "ppg": 106.8,
+          "papg": 112.33,
+          "diff": -5.53,
+          "high": 144.36,
+          "low": 57.6,
+          "season": 2018,
+          "team": "Anakin Skywalker"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1333.72,
+          "pa": 1370.94,
+          "ppg": 102.59,
+          "papg": 105.46,
+          "diff": -2.86,
+          "high": 131.86,
+          "low": 60.86,
+          "season": 2019,
+          "team": "Area 51 Survivor"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1461.96,
+          "pa": 1279.54,
+          "ppg": 112.46,
+          "papg": 98.43,
+          "diff": 14.03,
+          "high": 134.9,
+          "low": 96.1,
+          "season": 2020,
+          "team": "Area 51 Survivor"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1464.02,
+          "pa": 1555.66,
+          "ppg": 104.57,
+          "papg": 111.12,
+          "diff": -6.55,
+          "high": 145.64,
+          "low": 70.26,
+          "season": 2021,
+          "team": "DubbaKaj"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1333.5,
+          "pa": 1518.32,
+          "ppg": 95.25,
+          "papg": 108.45,
+          "diff": -13.2,
+          "high": 124.1,
+          "low": 52.76,
+          "season": 2022,
+          "team": "DubbaKaj"
+        },
+        {
+          "gp": 14,
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "record": "4-10",
+          "win_pct": 0.286,
+          "pf": 1256.78,
+          "pa": 1442.7,
+          "ppg": 89.77,
+          "papg": 103.05,
+          "diff": -13.28,
+          "high": 156.68,
+          "low": 62.88,
+          "season": 2023,
+          "team": "DubbaKaj"
+        },
+        {
+          "gp": 14,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "record": "7-7",
+          "win_pct": 0.5,
+          "pf": 1350.44,
+          "pa": 1395.88,
+          "ppg": 96.46,
+          "papg": 99.71,
+          "diff": -3.25,
+          "high": 121.88,
+          "low": 76.58,
+          "season": 2024,
+          "team": "DubbaKaj"
+        },
+        {
+          "gp": 13,
+          "wins": 9,
+          "losses": 4,
+          "ties": 0,
+          "record": "9-4",
+          "win_pct": 0.692,
+          "pf": 1375.74,
+          "pa": 1245.9,
+          "ppg": 105.83,
+          "papg": 95.84,
+          "diff": 9.99,
+          "high": 148.0,
+          "low": 51.1,
+          "season": 2025,
+          "team": "Im Gonna Plumb"
+        },
+        {
+          "gp": 10,
+          "wins": 7,
+          "losses": 3,
+          "ties": 0,
+          "record": "7-3",
+          "win_pct": 0.7,
+          "pf": 1180.9,
+          "pa": 1026.9,
+          "ppg": 118.09,
+          "papg": 102.69,
+          "diff": 15.4,
+          "high": 147.64,
+          "low": 65.56,
+          "season": 2026,
+          "team": "Im Gonna Plumb"
+        }
+      ]
+    },
+    {
+      "id": "luke",
+      "name": "Luke",
+      "aliases": [
+        "luke",
+        "lukeypooky9"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "HurtsDonut?",
+      "career": {
+        "gp": 119,
+        "wins": 69,
+        "losses": 50,
+        "ties": 0,
+        "record": "69-50",
+        "win_pct": 0.58,
+        "pf": 12805.78,
+        "pa": 12680.5,
+        "ppg": 107.61,
+        "papg": 106.56,
+        "diff": 1.05,
+        "high": 165.28,
+        "low": 52.78
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1669.32,
+          "pa": 1663.48,
+          "ppg": 119.24,
+          "papg": 118.82,
+          "diff": 0.42,
+          "high": 154.32,
+          "low": 72.56,
+          "season": 2018,
+          "team": "WUTHEL WILLTHONN"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1243.58,
+          "pa": 1481.38,
+          "ppg": 95.66,
+          "papg": 113.95,
+          "diff": -18.29,
+          "high": 134.68,
+          "low": 63.7,
+          "season": 2019,
+          "team": "Luke's Optimal Team"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1410.96,
+          "pa": 1358.4,
+          "ppg": 108.54,
+          "papg": 104.49,
+          "diff": 4.04,
+          "high": 150.28,
+          "low": 58.68,
+          "season": 2020,
+          "team": "WUTHEL WILTHONNN"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1280.34,
+          "pa": 1426.62,
+          "ppg": 91.45,
+          "papg": 101.9,
+          "diff": -10.45,
+          "high": 141.3,
+          "low": 52.78,
+          "season": 2021,
+          "team": "WUTHELL WILTHON!!"
+        },
+        {
+          "gp": 14,
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "record": "11-3",
+          "win_pct": 0.786,
+          "pf": 1646.54,
+          "pa": 1287.88,
+          "ppg": 117.61,
+          "papg": 91.99,
+          "diff": 25.62,
+          "high": 149.92,
+          "low": 87.82,
+          "season": 2022,
+          "team": "HENRYS MAHOMIES"
+        },
+        {
+          "gp": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0,
+          "record": "12-2",
+          "win_pct": 0.857,
+          "pf": 1662.36,
+          "pa": 1398.66,
+          "ppg": 118.74,
+          "papg": 99.9,
+          "diff": 18.84,
+          "high": 153.6,
+          "low": 74.92,
+          "season": 2023,
+          "team": "The Alien Boyz"
+        },
+        {
+          "gp": 14,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "record": "10-4",
+          "win_pct": 0.714,
+          "pf": 1564.12,
+          "pa": 1393.7,
+          "ppg": 111.72,
+          "papg": 99.55,
+          "diff": 12.17,
+          "high": 165.28,
+          "low": 78.26,
+          "season": 2024,
+          "team": "The Alien Boyz"
+        },
+        {
+          "gp": 13,
+          "wins": 3,
+          "losses": 10,
+          "ties": 0,
+          "record": "3-10",
+          "win_pct": 0.231,
+          "pf": 1219.66,
+          "pa": 1484.46,
+          "ppg": 93.82,
+          "papg": 114.19,
+          "diff": -20.37,
+          "high": 124.14,
+          "low": 57.16,
+          "season": 2025,
+          "team": "First to Worst"
+        },
+        {
+          "gp": 10,
+          "wins": 6,
+          "losses": 4,
+          "ties": 0,
+          "record": "6-4",
+          "win_pct": 0.6,
+          "pf": 1108.9,
+          "pa": 1185.92,
+          "ppg": 110.89,
+          "papg": 118.59,
+          "diff": -7.7,
+          "high": 150.5,
+          "low": 83.3,
+          "season": 2026,
+          "team": "HurtsDonut?"
+        }
+      ]
+    },
+    {
+      "id": "scott",
+      "name": "Scott",
+      "aliases": [
+        "scott",
+        "spoderdude"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "Spoderdude",
+      "career": {
+        "gp": 119,
+        "wins": 62,
+        "losses": 57,
+        "ties": 0,
+        "record": "62-57",
+        "win_pct": 0.521,
+        "pf": 12597.92,
+        "pa": 12391.12,
+        "ppg": 105.86,
+        "papg": 104.13,
+        "diff": 1.74,
+        "high": 197.18,
+        "low": 60.32
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1881.86,
+          "pa": 1561.94,
+          "ppg": 134.42,
+          "papg": 111.57,
+          "diff": 22.85,
+          "high": 183.96,
+          "low": 115.42,
+          "season": 2018,
+          "team": "scott's Team"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1317.56,
+          "pa": 1214.32,
+          "ppg": 101.35,
+          "papg": 93.41,
+          "diff": 7.94,
+          "high": 139.38,
+          "low": 68.14,
+          "season": 2019,
+          "team": "scott's Team"
+        },
+        {
+          "gp": 13,
+          "wins": 6,
+          "losses": 7,
+          "ties": 0,
+          "record": "6-7",
+          "win_pct": 0.462,
+          "pf": 1274.54,
+          "pa": 1356.64,
+          "ppg": 98.04,
+          "papg": 104.36,
+          "diff": -6.32,
+          "high": 125.82,
+          "low": 60.32,
+          "season": 2020,
+          "team": "scott's Team"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1505.6,
+          "pa": 1422.48,
+          "ppg": 107.54,
+          "papg": 101.61,
+          "diff": 5.94,
+          "high": 142.08,
+          "low": 71.58,
+          "season": 2021,
+          "team": "Scott's Tots"
+        },
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1355.42,
+          "pa": 1444.12,
+          "ppg": 96.82,
+          "papg": 103.15,
+          "diff": -6.34,
+          "high": 131.18,
+          "low": 64.9,
+          "season": 2022,
+          "team": "Scott's Tots"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1526.34,
+          "pa": 1422.24,
+          "ppg": 109.02,
+          "papg": 101.59,
+          "diff": 7.44,
+          "high": 154.34,
+          "low": 77.46,
+          "season": 2023,
+          "team": "Scott's Tots"
+        },
+        {
+          "gp": 14,
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "record": "4-10",
+          "win_pct": 0.286,
+          "pf": 1270.6,
+          "pa": 1535.2,
+          "ppg": 90.76,
+          "papg": 109.66,
+          "diff": -18.9,
+          "high": 128.64,
+          "low": 66.26,
+          "season": 2024,
+          "team": "Scott's Tots"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1371.22,
+          "pa": 1366.5,
+          "ppg": 105.48,
+          "papg": 105.12,
+          "diff": 0.36,
+          "high": 140.06,
+          "low": 70.72,
+          "season": 2025,
+          "team": "Spoderdude"
+        },
+        {
+          "gp": 10,
+          "wins": 2,
+          "losses": 8,
+          "ties": 0,
+          "record": "2-8",
+          "win_pct": 0.2,
+          "pf": 1094.78,
+          "pa": 1067.68,
+          "ppg": 109.48,
+          "papg": 106.77,
+          "diff": 2.71,
+          "high": 197.18,
+          "low": 83.56,
+          "season": 2026,
+          "team": "Spoderdude"
+        }
+      ]
+    },
+    {
+      "id": "wyatt",
+      "name": "Wyatt",
+      "aliases": [
+        "wyatt",
+        "wyatt545454"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "plz win",
+      "career": {
+        "gp": 119,
+        "wins": 73,
+        "losses": 46,
+        "ties": 0,
+        "record": "73-46",
+        "win_pct": 0.613,
+        "pf": 12965.56,
+        "pa": 12232.84,
+        "ppg": 108.95,
+        "papg": 102.8,
+        "diff": 6.16,
+        "high": 192.44,
+        "low": 48.54
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "record": "11-3",
+          "win_pct": 0.786,
+          "pf": 1935.18,
+          "pa": 1474.5,
+          "ppg": 138.23,
+          "papg": 105.32,
+          "diff": 32.91,
+          "high": 192.44,
+          "low": 98.6,
+          "season": 2018,
+          "team": "No One"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1471.36,
+          "pa": 1445.46,
+          "ppg": 113.18,
+          "papg": 111.19,
+          "diff": 1.99,
+          "high": 169.82,
+          "low": 76.02,
+          "season": 2019,
+          "team": "No One"
+        },
+        {
+          "gp": 13,
+          "wins": 6,
+          "losses": 7,
+          "ties": 0,
+          "record": "6-7",
+          "win_pct": 0.462,
+          "pf": 1332.0,
+          "pa": 1481.7,
+          "ppg": 102.46,
+          "papg": 113.98,
+          "diff": -11.52,
+          "high": 137.7,
+          "low": 72.82,
+          "season": 2020,
+          "team": "No One"
+        },
+        {
+          "gp": 14,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "record": "10-4",
+          "win_pct": 0.714,
+          "pf": 1616.88,
+          "pa": 1494.3,
+          "ppg": 115.49,
+          "papg": 106.74,
+          "diff": 8.76,
+          "high": 152.74,
+          "low": 80.92,
+          "season": 2021,
+          "team": "Gardner's Gardeners"
+        },
+        {
+          "gp": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0,
+          "record": "12-2",
+          "win_pct": 0.857,
+          "pf": 1472.66,
+          "pa": 1308.06,
+          "ppg": 105.19,
+          "papg": 93.43,
+          "diff": 11.76,
+          "high": 140.16,
+          "low": 74.72,
+          "season": 2022,
+          "team": "Herbie's Partially Loaded"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1440.6,
+          "pa": 1441.02,
+          "ppg": 102.9,
+          "papg": 102.93,
+          "diff": -0.03,
+          "high": 129.78,
+          "low": 69.48,
+          "season": 2023,
+          "team": "No One"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1286.54,
+          "pa": 1269.0,
+          "ppg": 91.9,
+          "papg": 90.64,
+          "diff": 1.25,
+          "high": 124.34,
+          "low": 48.54,
+          "season": 2024,
+          "team": "No One"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1293.06,
+          "pa": 1288.62,
+          "ppg": 99.47,
+          "papg": 99.12,
+          "diff": 0.34,
+          "high": 135.1,
+          "low": 63.9,
+          "season": 2025,
+          "team": "plz win"
+        },
+        {
+          "gp": 10,
+          "wins": 7,
+          "losses": 3,
+          "ties": 0,
+          "record": "7-3",
+          "win_pct": 0.7,
+          "pf": 1117.28,
+          "pa": 1030.18,
+          "ppg": 111.73,
+          "papg": 103.02,
+          "diff": 8.71,
+          "high": 167.78,
+          "low": 92.88,
+          "season": 2026,
+          "team": "plz win"
+        }
+      ]
+    },
+    {
+      "id": "zach",
+      "name": "Zach",
+      "aliases": [
+        "zach",
+        "ZachTodd94"
+      ],
+      "first_season": 2018,
+      "last_season": 2026,
+      "latest_team": "McConkey’s Donkeys",
+      "career": {
+        "gp": 119,
+        "wins": 64,
+        "losses": 55,
+        "ties": 0,
+        "record": "64-55",
+        "win_pct": 0.538,
+        "pf": 12481.06,
+        "pa": 12382.46,
+        "ppg": 104.88,
+        "papg": 104.05,
+        "diff": 0.83,
+        "high": 161.02,
+        "low": 46.88
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1601.06,
+          "pa": 1550.76,
+          "ppg": 114.36,
+          "papg": 110.77,
+          "diff": 3.59,
+          "high": 153.32,
+          "low": 71.16,
+          "season": 2018,
+          "team": "The Last Avengers"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1464.46,
+          "pa": 1297.3,
+          "ppg": 112.65,
+          "papg": 99.79,
+          "diff": 12.86,
+          "high": 161.02,
+          "low": 64.02,
+          "season": 2019,
+          "team": "Jake Top Luke Bottom"
+        },
+        {
+          "gp": 13,
+          "wins": 11,
+          "losses": 2,
+          "ties": 0,
+          "record": "11-2",
+          "win_pct": 0.846,
+          "pf": 1522.22,
+          "pa": 1280.0,
+          "ppg": 117.09,
+          "papg": 98.46,
+          "diff": 18.63,
+          "high": 150.38,
+          "low": 96.34,
+          "season": 2020,
+          "team": "Jake Top Luke Bottom"
+        },
+        {
+          "gp": 14,
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "record": "7-7",
+          "win_pct": 0.5,
+          "pf": 1520.46,
+          "pa": 1518.44,
+          "ppg": 108.6,
+          "papg": 108.46,
+          "diff": 0.14,
+          "high": 149.08,
+          "low": 83.22,
+          "season": 2021,
+          "team": "Jake top Luke bottom"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1330.36,
+          "pa": 1518.7,
+          "ppg": 95.03,
+          "papg": 108.48,
+          "diff": -13.45,
+          "high": 137.78,
+          "low": 57.3,
+          "season": 2022,
+          "team": "Ant Man & Wasp Tuantumania"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1672.72,
+          "pa": 1414.54,
+          "ppg": 119.48,
+          "papg": 101.04,
+          "diff": 18.44,
+          "high": 156.16,
+          "low": 88.04,
+          "season": 2023,
+          "team": "Sun God Disciples"
+        },
+        {
+          "gp": 14,
+          "wins": 2,
+          "losses": 12,
+          "ties": 0,
+          "record": "2-12",
+          "win_pct": 0.143,
+          "pf": 1134.94,
+          "pa": 1482.0,
+          "ppg": 81.07,
+          "papg": 105.86,
+          "diff": -24.79,
+          "high": 104.82,
+          "low": 46.88,
+          "season": 2024,
+          "team": "Air Raid Offense"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1257.02,
+          "pa": 1328.0,
+          "ppg": 96.69,
+          "papg": 102.15,
+          "diff": -5.46,
+          "high": 122.44,
+          "low": 55.84,
+          "season": 2025,
+          "team": "McConkey’s Donkeys"
+        },
+        {
+          "gp": 10,
+          "wins": 6,
+          "losses": 4,
+          "ties": 0,
+          "record": "6-4",
+          "win_pct": 0.6,
+          "pf": 977.82,
+          "pa": 992.72,
+          "ppg": 97.78,
+          "papg": 99.27,
+          "diff": -1.49,
+          "high": 110.82,
+          "low": 79.08,
+          "season": 2026,
+          "team": "McConkey’s Donkeys"
+        }
+      ]
+    },
+    {
+      "id": "derrick",
+      "name": "Derrick",
+      "aliases": [
+        "derrick",
+        "dman98312"
+      ],
+      "first_season": 2019,
+      "last_season": 2026,
+      "latest_team": "The Sex Panthers",
+      "career": {
+        "gp": 105,
+        "wins": 53,
+        "losses": 52,
+        "ties": 0,
+        "record": "53-52",
+        "win_pct": 0.505,
+        "pf": 11145.52,
+        "pa": 10972.9,
+        "ppg": 106.15,
+        "papg": 104.5,
+        "diff": 1.64,
+        "high": 185.72,
+        "low": 58.1
+      },
+      "seasons": [
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1476.18,
+          "pa": 1463.6,
+          "ppg": 113.55,
+          "papg": 112.58,
+          "diff": 0.97,
+          "high": 144.32,
+          "low": 66.0,
+          "season": 2019,
+          "team": "Full Chubb"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1516.82,
+          "pa": 1353.52,
+          "ppg": 116.68,
+          "papg": 104.12,
+          "diff": 12.56,
+          "high": 172.3,
+          "low": 84.18,
+          "season": 2020,
+          "team": "The Sex Panthers"
+        },
+        {
+          "gp": 14,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "record": "10-4",
+          "win_pct": 0.714,
+          "pf": 1598.46,
+          "pa": 1370.38,
+          "ppg": 114.18,
+          "papg": 97.88,
+          "diff": 16.29,
+          "high": 185.72,
+          "low": 69.88,
+          "season": 2021,
+          "team": "Full Chubb"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1392.12,
+          "pa": 1433.34,
+          "ppg": 99.44,
+          "papg": 102.38,
+          "diff": -2.94,
+          "high": 151.52,
+          "low": 58.1,
+          "season": 2022,
+          "team": "The Sex Panthers"
+        },
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1361.82,
+          "pa": 1441.3,
+          "ppg": 97.27,
+          "papg": 102.95,
+          "diff": -5.68,
+          "high": 126.38,
+          "low": 66.14,
+          "season": 2023,
+          "team": "The Sex Panthers"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1391.56,
+          "pa": 1335.6,
+          "ppg": 99.4,
+          "papg": 95.4,
+          "diff": 4.0,
+          "high": 131.4,
+          "low": 62.18,
+          "season": 2024,
+          "team": "The Sex Panthers"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1355.96,
+          "pa": 1432.12,
+          "ppg": 104.3,
+          "papg": 110.16,
+          "diff": -5.86,
+          "high": 144.06,
+          "low": 74.22,
+          "season": 2025,
+          "team": "The Sex Panthers"
+        },
+        {
+          "gp": 10,
+          "wins": 4,
+          "losses": 6,
+          "ties": 0,
+          "record": "4-6",
+          "win_pct": 0.4,
+          "pf": 1052.6,
+          "pa": 1143.04,
+          "ppg": 105.26,
+          "papg": 114.3,
+          "diff": -9.04,
+          "high": 135.02,
+          "low": 68.5,
+          "season": 2026,
+          "team": "The Sex Panthers"
+        }
+      ]
+    },
+    {
+      "id": "jared",
+      "name": "Jared",
+      "aliases": [
+        "jared"
+      ],
+      "first_season": 2018,
+      "last_season": 2024,
+      "latest_team": "Golden Taint",
+      "career": {
+        "gp": 96,
+        "wins": 34,
+        "losses": 62,
+        "ties": 0,
+        "record": "34-62",
+        "win_pct": 0.354,
+        "pf": 9289.28,
+        "pa": 10265.32,
+        "ppg": 96.76,
+        "papg": 106.93,
+        "diff": -10.17,
+        "high": 160.56,
+        "low": 37.8
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1383.32,
+          "pa": 1569.76,
+          "ppg": 98.81,
+          "papg": 112.13,
+          "diff": -13.32,
+          "high": 128.36,
+          "low": 53.92,
+          "season": 2018,
+          "team": "Mike (SEA)Hawk"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1295.9,
+          "pa": 1244.66,
+          "ppg": 99.68,
+          "papg": 95.74,
+          "diff": 3.94,
+          "high": 159.52,
+          "low": 71.62,
+          "season": 2019,
+          "team": "Brownin Out"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1417.86,
+          "pa": 1462.1,
+          "ppg": 109.07,
+          "papg": 112.47,
+          "diff": -3.4,
+          "high": 160.56,
+          "low": 74.0,
+          "season": 2020,
+          "team": "Brownin Out"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1384.94,
+          "pa": 1398.08,
+          "ppg": 98.92,
+          "papg": 99.86,
+          "diff": -0.94,
+          "high": 150.74,
+          "low": 37.8,
+          "season": 2021,
+          "team": "Golden Taint"
+        },
+        {
+          "gp": 14,
+          "wins": 2,
+          "losses": 12,
+          "ties": 0,
+          "record": "2-12",
+          "win_pct": 0.143,
+          "pf": 1198.54,
+          "pa": 1408.22,
+          "ppg": 85.61,
+          "papg": 100.59,
+          "diff": -14.98,
+          "high": 116.12,
+          "low": 55.9,
+          "season": 2022,
+          "team": "Golden Taint"
+        },
+        {
+          "gp": 14,
+          "wins": 3,
+          "losses": 11,
+          "ties": 0,
+          "record": "3-11",
+          "win_pct": 0.214,
+          "pf": 1232.76,
+          "pa": 1547.58,
+          "ppg": 88.05,
+          "papg": 110.54,
+          "diff": -22.49,
+          "high": 138.74,
+          "low": 51.58,
+          "season": 2023,
+          "team": "Golden Taint"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1375.96,
+          "pa": 1634.92,
+          "ppg": 98.28,
+          "papg": 116.78,
+          "diff": -18.5,
+          "high": 124.1,
+          "low": 68.48,
+          "season": 2024,
+          "team": "Golden Taint"
+        }
+      ]
+    },
+    {
+      "id": "jesse",
+      "name": "Jesse",
+      "aliases": [
+        "jesse"
+      ],
+      "first_season": 2019,
+      "last_season": 2024,
+      "latest_team": "Wallerus",
+      "career": {
+        "gp": 82,
+        "wins": 37,
+        "losses": 45,
+        "ties": 0,
+        "record": "37-45",
+        "win_pct": 0.451,
+        "pf": 8298.28,
+        "pa": 8464.98,
+        "ppg": 101.2,
+        "papg": 103.23,
+        "diff": -2.03,
+        "high": 160.74,
+        "low": 57.86
+      },
+      "seasons": [
+        {
+          "gp": 13,
+          "wins": 6,
+          "losses": 7,
+          "ties": 0,
+          "record": "6-7",
+          "win_pct": 0.462,
+          "pf": 1298.3,
+          "pa": 1475.94,
+          "ppg": 99.87,
+          "papg": 113.53,
+          "diff": -13.66,
+          "high": 129.3,
+          "low": 57.86,
+          "season": 2019,
+          "team": "Gin n’ JuJuice"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1399.4,
+          "pa": 1309.32,
+          "ppg": 107.65,
+          "papg": 100.72,
+          "diff": 6.93,
+          "high": 129.52,
+          "low": 76.24,
+          "season": 2020,
+          "team": "Super Kamario"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1308.4,
+          "pa": 1430.36,
+          "ppg": 93.46,
+          "papg": 102.17,
+          "diff": -8.71,
+          "high": 127.24,
+          "low": 60.42,
+          "season": 2021,
+          "team": "Kirk 30’s"
+        },
+        {
+          "gp": 14,
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "record": "4-10",
+          "win_pct": 0.286,
+          "pf": 1380.16,
+          "pa": 1502.0,
+          "ppg": 98.58,
+          "papg": 107.29,
+          "diff": -8.7,
+          "high": 128.98,
+          "low": 68.64,
+          "season": 2022,
+          "team": "Pittmonchan"
+        },
+        {
+          "gp": 14,
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "record": "6-8",
+          "win_pct": 0.429,
+          "pf": 1310.88,
+          "pa": 1368.96,
+          "ppg": 93.63,
+          "papg": 97.78,
+          "diff": -4.15,
+          "high": 121.5,
+          "low": 67.66,
+          "season": 2023,
+          "team": "Wallerus"
+        },
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1601.14,
+          "pa": 1378.4,
+          "ppg": 114.37,
+          "papg": 98.46,
+          "diff": 15.91,
+          "high": 160.74,
+          "low": 75.24,
+          "season": 2024,
+          "team": "Wallerus"
+        }
+      ]
+    },
+    {
+      "id": "chris",
+      "name": "Chris",
+      "aliases": [
+        "chris",
+        "ChrisThies"
+      ],
+      "first_season": 2021,
+      "last_season": 2026,
+      "latest_team": "Top Dawg",
+      "career": {
+        "gp": 79,
+        "wins": 40,
+        "losses": 39,
+        "ties": 0,
+        "record": "40-39",
+        "win_pct": 0.506,
+        "pf": 8493.58,
+        "pa": 8293.3,
+        "ppg": 107.51,
+        "papg": 104.98,
+        "diff": 2.54,
+        "high": 187.82,
+        "low": 46.38
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 3,
+          "losses": 11,
+          "ties": 0,
+          "record": "3-11",
+          "win_pct": 0.214,
+          "pf": 1350.78,
+          "pa": 1569.84,
+          "ppg": 96.48,
+          "papg": 112.13,
+          "diff": -15.65,
+          "high": 134.78,
+          "low": 74.44,
+          "season": 2021,
+          "team": "Metcalf Magic"
+        },
+        {
+          "gp": 14,
+          "wins": 12,
+          "losses": 2,
+          "ties": 0,
+          "record": "12-2",
+          "win_pct": 0.857,
+          "pf": 1778.56,
+          "pa": 1412.82,
+          "ppg": 127.04,
+          "papg": 100.92,
+          "diff": 26.12,
+          "high": 187.82,
+          "low": 86.88,
+          "season": 2022,
+          "team": "Metcalf Mojo"
+        },
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1451.8,
+          "pa": 1364.7,
+          "ppg": 103.7,
+          "papg": 97.48,
+          "diff": 6.22,
+          "high": 139.6,
+          "low": 83.84,
+          "season": 2023,
+          "team": "Metcalf Mojo"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1522.4,
+          "pa": 1466.78,
+          "ppg": 108.74,
+          "papg": 104.77,
+          "diff": 3.97,
+          "high": 155.66,
+          "low": 70.88,
+          "season": 2024,
+          "team": "Dad Bod Era"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1293.74,
+          "pa": 1405.12,
+          "ppg": 99.52,
+          "papg": 108.09,
+          "diff": -8.57,
+          "high": 138.98,
+          "low": 46.38,
+          "season": 2025,
+          "team": "Top Dawg"
+        },
+        {
+          "gp": 10,
+          "wins": 6,
+          "losses": 4,
+          "ties": 0,
+          "record": "6-4",
+          "win_pct": 0.6,
+          "pf": 1096.3,
+          "pa": 1074.04,
+          "ppg": 109.63,
+          "papg": 107.4,
+          "diff": 2.23,
+          "high": 149.94,
+          "low": 59.28,
+          "season": 2026,
+          "team": "Top Dawg"
+        }
+      ]
+    },
+    {
+      "id": "kelly",
+      "name": "Kelly",
+      "aliases": [
+        "kelly"
+      ],
+      "first_season": 2019,
+      "last_season": 2023,
+      "latest_team": "K9 Unit",
+      "career": {
+        "gp": 68,
+        "wins": 35,
+        "losses": 33,
+        "ties": 0,
+        "record": "35-33",
+        "win_pct": 0.515,
+        "pf": 7168.04,
+        "pa": 7075.32,
+        "ppg": 105.41,
+        "papg": 104.05,
+        "diff": 1.36,
+        "high": 169.42,
+        "low": 67.6
+      },
+      "seasons": [
+        {
+          "gp": 13,
+          "wins": 9,
+          "losses": 4,
+          "ties": 0,
+          "record": "9-4",
+          "win_pct": 0.692,
+          "pf": 1495.16,
+          "pa": 1263.46,
+          "ppg": 115.01,
+          "papg": 97.19,
+          "diff": 17.82,
+          "high": 169.42,
+          "low": 86.96,
+          "season": 2019,
+          "team": "Kirkland Paleskins"
+        },
+        {
+          "gp": 13,
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "record": "8-5",
+          "win_pct": 0.615,
+          "pf": 1391.2,
+          "pa": 1323.68,
+          "ppg": 107.02,
+          "papg": 101.82,
+          "diff": 5.19,
+          "high": 143.98,
+          "low": 80.5,
+          "season": 2020,
+          "team": "Kirkland Signature"
+        },
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1539.28,
+          "pa": 1555.6,
+          "ppg": 109.95,
+          "papg": 111.11,
+          "diff": -1.17,
+          "high": 135.52,
+          "low": 85.88,
+          "season": 2021,
+          "team": "Kelly's Pleasant Team"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1314.72,
+          "pa": 1534.34,
+          "ppg": 93.91,
+          "papg": 109.6,
+          "diff": -15.69,
+          "high": 150.04,
+          "low": 67.6,
+          "season": 2022,
+          "team": "Kelly's Pleasant Team"
+        },
+        {
+          "gp": 14,
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "record": "5-9",
+          "win_pct": 0.357,
+          "pf": 1427.68,
+          "pa": 1398.24,
+          "ppg": 101.98,
+          "papg": 99.87,
+          "diff": 2.1,
+          "high": 144.8,
+          "low": 74.48,
+          "season": 2023,
+          "team": "K9 Unit"
+        }
+      ]
+    },
+    {
+      "id": "steve",
+      "name": "Steve",
+      "aliases": [
+        "steve"
+      ],
+      "first_season": 2018,
+      "last_season": 2020,
+      "latest_team": "Auto Draft",
+      "career": {
+        "gp": 40,
+        "wins": 14,
+        "losses": 26,
+        "ties": 0,
+        "record": "14-26",
+        "win_pct": 0.35,
+        "pf": 4135.02,
+        "pa": 4532.42,
+        "ppg": 103.38,
+        "papg": 113.31,
+        "diff": -9.93,
+        "high": 141.1,
+        "low": 65.44
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1644.78,
+          "pa": 1552.84,
+          "ppg": 117.48,
+          "papg": 110.92,
+          "diff": 6.57,
+          "high": 141.1,
+          "low": 92.54,
+          "season": 2018,
+          "team": "Auto Draft"
+        },
+        {
+          "gp": 13,
+          "wins": 5,
+          "losses": 8,
+          "ties": 0,
+          "record": "5-8",
+          "win_pct": 0.385,
+          "pf": 1290.44,
+          "pa": 1385.94,
+          "ppg": 99.26,
+          "papg": 106.61,
+          "diff": -7.35,
+          "high": 127.04,
+          "low": 79.9,
+          "season": 2019,
+          "team": "Auto Draft"
+        },
+        {
+          "gp": 13,
+          "wins": 0,
+          "losses": 13,
+          "ties": 0,
+          "record": "0-13",
+          "win_pct": 0.0,
+          "pf": 1199.8,
+          "pa": 1593.64,
+          "ppg": 92.29,
+          "papg": 122.59,
+          "diff": -30.3,
+          "high": 121.64,
+          "low": 65.44,
+          "season": 2020,
+          "team": "Auto Draft"
+        }
+      ]
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "aliases": [
+        "david",
+        "Sauuuuucy"
+      ],
+      "first_season": 2024,
+      "last_season": 2026,
+      "latest_team": "CTE",
+      "career": {
+        "gp": 37,
+        "wins": 20,
+        "losses": 17,
+        "ties": 0,
+        "record": "20-17",
+        "win_pct": 0.541,
+        "pf": 3922.88,
+        "pa": 3857.28,
+        "ppg": 106.02,
+        "papg": 104.25,
+        "diff": 1.77,
+        "high": 145.06,
+        "low": 66.36
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "record": "10-4",
+          "win_pct": 0.714,
+          "pf": 1512.26,
+          "pa": 1379.32,
+          "ppg": 108.02,
+          "papg": 98.52,
+          "diff": 9.5,
+          "high": 132.6,
+          "low": 73.12,
+          "season": 2024,
+          "team": "Mother Tucker"
+        },
+        {
+          "gp": 13,
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "record": "7-6",
+          "win_pct": 0.538,
+          "pf": 1511.12,
+          "pa": 1434.38,
+          "ppg": 116.24,
+          "papg": 110.34,
+          "diff": 5.9,
+          "high": 145.06,
+          "low": 90.18,
+          "season": 2025,
+          "team": "Team Sauuuuucy"
+        },
+        {
+          "gp": 10,
+          "wins": 3,
+          "losses": 7,
+          "ties": 0,
+          "record": "3-7",
+          "win_pct": 0.3,
+          "pf": 899.5,
+          "pa": 1043.58,
+          "ppg": 89.95,
+          "papg": 104.36,
+          "diff": -14.41,
+          "high": 116.42,
+          "low": 66.36,
+          "season": 2026,
+          "team": "CTE"
+        }
+      ]
+    },
+    {
+      "id": "ken",
+      "name": "Ken",
+      "aliases": [
+        "ken"
+      ],
+      "first_season": 2018,
+      "last_season": 2018,
+      "latest_team": "Rockout w ur Hawkout",
+      "career": {
+        "gp": 14,
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "record": "9-5",
+        "win_pct": 0.643,
+        "pf": 1723.96,
+        "pa": 1625.16,
+        "ppg": 123.14,
+        "papg": 116.08,
+        "diff": 7.06,
+        "high": 163.42,
+        "low": 76.28
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "record": "9-5",
+          "win_pct": 0.643,
+          "pf": 1723.96,
+          "pa": 1625.16,
+          "ppg": 123.14,
+          "papg": 116.08,
+          "diff": 7.06,
+          "high": 163.42,
+          "low": 76.28,
+          "season": 2018,
+          "team": "Rockout w ur Hawkout"
+        }
+      ]
+    },
+    {
+      "id": "mick",
+      "name": "Mick",
+      "aliases": [
+        "mick"
+      ],
+      "first_season": 2018,
+      "last_season": 2018,
+      "latest_team": "Mick's Team",
+      "career": {
+        "gp": 14,
+        "wins": 1,
+        "losses": 13,
+        "ties": 0,
+        "record": "1-13",
+        "win_pct": 0.071,
+        "pf": 1101.12,
+        "pa": 1795.6,
+        "ppg": 78.65,
+        "papg": 128.26,
+        "diff": -49.61,
+        "high": 107.02,
+        "low": 45.9
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 1,
+          "losses": 13,
+          "ties": 0,
+          "record": "1-13",
+          "win_pct": 0.071,
+          "pf": 1101.12,
+          "pa": 1795.6,
+          "ppg": 78.65,
+          "papg": 128.26,
+          "diff": -49.61,
+          "high": 107.02,
+          "low": 45.9,
+          "season": 2018,
+          "team": "Mick's Team"
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown",
+      "aliases": [
+        "unknown"
+      ],
+      "first_season": 2018,
+      "last_season": 2018,
+      "latest_team": "Vato loco",
+      "career": {
+        "gp": 14,
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "record": "8-6",
+        "win_pct": 0.571,
+        "pf": 1816.14,
+        "pa": 1670.5,
+        "ppg": 129.72,
+        "papg": 119.32,
+        "diff": 10.4,
+        "high": 163.22,
+        "low": 87.98
+      },
+      "seasons": [
+        {
+          "gp": 14,
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "record": "8-6",
+          "win_pct": 0.571,
+          "pf": 1816.14,
+          "pa": 1670.5,
+          "ppg": 129.72,
+          "papg": 119.32,
+          "diff": 10.4,
+          "high": 163.22,
+          "low": 87.98,
+          "season": 2018,
+          "team": "Vato loco"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "current_season": 2026,
+    "through_week": 10,
+    "this_season": [
+      {
+        "title": "Scoring title",
+        "blurb": "Most points scored",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "1180.9",
+            "detail": "10 games · 118.1 PPG"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "1117.3",
+            "detail": "10 games · 111.7 PPG"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "1108.9",
+            "detail": "10 games · 110.9 PPG"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "1099.0",
+            "detail": "10 games · 109.9 PPG"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "1096.3",
+            "detail": "10 games · 109.6 PPG"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "1094.8",
+            "detail": "10 games · 109.5 PPG"
+          }
+        ]
+      },
+      {
+        "title": "Hot hand",
+        "blurb": "Highest points per game",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "118.1",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "111.7",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "110.9",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "109.9",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "109.6",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "109.5",
+            "detail": "10 games"
+          }
+        ]
+      },
+      {
+        "title": "High score",
+        "blurb": "Best single-week explosion",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "197.2",
+            "detail": "Week 10, 2026 vs Chris"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "167.8",
+            "detail": "Week 8, 2026 vs Luke"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "167.4",
+            "detail": "Week 5, 2026 vs Derrick"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "154.0",
+            "detail": "Week 2, 2026 vs Luke"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "150.5",
+            "detail": "Week 10, 2026 vs Zach"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "149.9",
+            "detail": "Week 2, 2026 vs Wyatt"
+          }
+        ]
+      },
+      {
+        "title": "Brick layer",
+        "blurb": "Lowest points per game",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "90.0",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "97.8",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "103.2",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "105.3",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "109.5",
+            "detail": "10 games"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "109.6",
+            "detail": "10 games"
+          }
+        ]
+      },
+      {
+        "title": "Floor",
+        "blurb": "Lowest single-week score",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "59.3",
+            "detail": "Week 4, 2026 vs Zach"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "61.5",
+            "detail": "Week 2, 2026 vs Zach"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "64.3",
+            "detail": "Week 9, 2026 vs Zach"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "65.6",
+            "detail": "Week 6, 2026 vs Wyatt"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "66.4",
+            "detail": "Week 9, 2026 vs Chris"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "68.5",
+            "detail": "Week 8, 2026 vs David"
+          }
+        ]
+      },
+      {
+        "title": "Punching bag",
+        "blurb": "Most points against",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "1185.9",
+            "detail": "118.6 PA/G"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "1143.0",
+            "detail": "114.3 PA/G"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "1088.3",
+            "detail": "108.8 PA/G"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "1074.0",
+            "detail": "107.4 PA/G"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "1067.7",
+            "detail": "106.8 PA/G"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "1043.6",
+            "detail": "104.4 PA/G"
+          }
+        ]
+      },
+      {
+        "title": "Win machine",
+        "blurb": "Most wins",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "7",
+            "detail": "7-3"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "7",
+            "detail": "7-3"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "6",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "6",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "6",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "5",
+            "detail": "5-5"
+          }
+        ]
+      },
+      {
+        "title": "Best record",
+        "blurb": "Highest win percentage",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "70.0%",
+            "detail": "7-3"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "70.0%",
+            "detail": "7-3"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "60.0%",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "60.0%",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "60.0%",
+            "detail": "6-4"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "50.0%",
+            "detail": "5-5"
+          }
+        ]
+      },
+      {
+        "title": "Cellar",
+        "blurb": "Most losses",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "8",
+            "detail": "2-8"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "7",
+            "detail": "3-7"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "6",
+            "detail": "4-6"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "6",
+            "detail": "4-6"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "5",
+            "detail": "5-5"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "4",
+            "detail": "6-4"
+          }
+        ]
+      },
+      {
+        "title": "Rough sledding",
+        "blurb": "Lowest win percentage",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "20.0%",
+            "detail": "2-8"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "30.0%",
+            "detail": "3-7"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "40.0%",
+            "detail": "4-6"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "40.0%",
+            "detail": "4-6"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "50.0%",
+            "detail": "5-5"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "60.0%",
+            "detail": "6-4"
+          }
+        ]
+      },
+      {
+        "title": "Point margin",
+        "blurb": "Best average differential",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "+15.4",
+            "detail": "118.1 PPG / 102.7 PA/G"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "+8.7",
+            "detail": "111.7 PPG / 103.0 PA/G"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "+2.7",
+            "detail": "109.5 PPG / 106.8 PA/G"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "+2.5",
+            "detail": "103.2 PPG / 100.6 PA/G"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "+2.2",
+            "detail": "109.6 PPG / 107.4 PA/G"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+1.1",
+            "detail": "109.9 PPG / 108.8 PA/G"
+          }
+        ]
+      },
+      {
+        "title": "Truck stick",
+        "blurb": "Biggest blowout win",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "+115.8",
+            "detail": "197.18–81.40 · Week 10, 2026 vs Chris"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "+69.8",
+            "detail": "154.02–84.26 · Week 2, 2026 vs Luke"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+65.2",
+            "detail": "167.44–102.24 · Week 5, 2026 vs Derrick"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "+64.3",
+            "detail": "147.64–83.30 · Week 9, 2026 vs Luke"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "+63.4",
+            "detail": "150.50–87.12 · Week 10, 2026 vs Zach"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "+62.3",
+            "detail": "128.68–66.36 · Week 9, 2026 vs David"
+          }
+        ]
+      },
+      {
+        "title": "Nail-biter",
+        "blurb": "Closest win",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "+0.12",
+            "detail": "85.62–85.50 · Week 6, 2026 vs David"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "+0.70",
+            "detail": "108.54–107.84 · Week 6, 2026 vs AJ"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "+1.02",
+            "detail": "92.66–91.64 · Week 3, 2026 vs Scott"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+3.44",
+            "detail": "113.70–110.26 · Week 1, 2026 vs Jake"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "+3.60",
+            "detail": "110.20–106.60 · Week 5, 2026 vs Chris"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "+3.76",
+            "detail": "109.66–105.90 · Week 10, 2026 vs AJ"
+          }
+        ]
+      },
+      {
+        "title": "On fire",
+        "blurb": "Longest win streak",
+        "group": "streaks",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "7",
+            "detail": "Week 9, 2026 vs AJ"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "4",
+            "detail": "Week 9, 2026 vs David"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "4",
+            "detail": "Week 5, 2026 vs Scott"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "4",
+            "detail": "Week 7, 2026 vs Scott"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "3",
+            "detail": "Week 5, 2026 vs Derrick"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "3",
+            "detail": "Week 3, 2026 vs Scott"
+          }
+        ]
+      },
+      {
+        "title": "Cold streak",
+        "blurb": "Longest losing streak",
+        "group": "streaks",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "7",
+            "detail": "Week 7, 2026 vs Luke"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "5",
+            "detail": "Week 10, 2026 vs Jake"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "5",
+            "detail": "Week 8, 2026 vs David"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "4",
+            "detail": "Week 6, 2026 vs Luke"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "3",
+            "detail": "Week 5, 2026 vs Luke"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "3",
+            "detail": "Week 9, 2026 vs Zach"
+          }
+        ]
+      },
+      {
+        "title": "Heist",
+        "blurb": "Fewest points in a win",
+        "group": "moments",
+        "entries": [
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "84.98",
+            "detail": "Beat AJ 84.98–61.50"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "85.62",
+            "detail": "Beat David 85.62–85.50"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "91.12",
+            "detail": "Beat Scott 91.12–87.10"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "92.66",
+            "detail": "Beat Scott 92.66–91.64"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "94.02",
+            "detail": "Beat David 94.02–84.84"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "94.42",
+            "detail": "Beat David 94.42–84.16"
+          }
+        ]
+      },
+      {
+        "title": "Heartbreak",
+        "blurb": "Most points in a loss",
+        "group": "moments",
+        "entries": [
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "120.12",
+            "detail": "Lost to AJ 120.12–127.60"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "117.86",
+            "detail": "Lost to Jake 117.86–125.88"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "116.42",
+            "detail": "Lost to Corey 116.42–133.36"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "114.94",
+            "detail": "Lost to Jake 114.94–139.28"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "113.08",
+            "detail": "Lost to Wyatt 113.08–167.78"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "110.90",
+            "detail": "Lost to Luke 110.90–115.52"
+          }
+        ]
+      }
+    ],
+    "all_time": [
+      {
+        "title": "Scoring title",
+        "blurb": "Most points scored",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "12965.6",
+            "detail": "119 games · 109.0 PPG"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "12805.8",
+            "detail": "119 games · 107.6 PPG"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "12747.3",
+            "detail": "119 games · 107.1 PPG"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "12597.9",
+            "detail": "119 games · 105.9 PPG"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "12592.2",
+            "detail": "119 games · 105.8 PPG"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "12481.1",
+            "detail": "119 games · 104.9 PPG"
+          }
+        ]
+      },
+      {
+        "title": "Hot hand",
+        "blurb": "Highest points per game",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "109.0",
+            "detail": "119 games"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "107.6",
+            "detail": "119 games"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "107.5",
+            "detail": "79 games"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "107.1",
+            "detail": "119 games"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "106.2",
+            "detail": "105 games"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "106.0",
+            "detail": "37 games"
+          }
+        ]
+      },
+      {
+        "title": "High score",
+        "blurb": "Best single-week explosion",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "197.2",
+            "detail": "Week 10, 2026 vs Chris"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "192.4",
+            "detail": "Week 10, 2018 vs Corey"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "187.8",
+            "detail": "Week 4, 2022 vs Jake"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "185.7",
+            "detail": "Week 5, 2021 vs Chris"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "184.0",
+            "detail": "Week 13, 2018 vs Mick"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "173.1",
+            "detail": "Week 1, 2018 vs Ken"
+          }
+        ]
+      },
+      {
+        "title": "Brick layer",
+        "blurb": "Lowest points per game",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "jared",
+            "player_name": "Jared",
+            "value": "96.8",
+            "detail": "96 games"
+          },
+          {
+            "player_id": "jesse",
+            "player_name": "Jesse",
+            "value": "101.2",
+            "detail": "82 games"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "103.0",
+            "detail": "119 games"
+          },
+          {
+            "player_id": "steve",
+            "player_name": "Steve",
+            "value": "103.4",
+            "detail": "40 games"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "104.9",
+            "detail": "119 games"
+          },
+          {
+            "player_id": "kelly",
+            "player_name": "Kelly",
+            "value": "105.4",
+            "detail": "68 games"
+          }
+        ]
+      },
+      {
+        "title": "Floor",
+        "blurb": "Lowest single-week score",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "jared",
+            "player_name": "Jared",
+            "value": "37.8",
+            "detail": "Week 13, 2021 vs Derrick"
+          },
+          {
+            "player_id": "mick",
+            "player_name": "Mick",
+            "value": "45.9",
+            "detail": "Week 7, 2018 vs Corey"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "46.4",
+            "detail": "Week 8, 2025 vs Corey"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "46.9",
+            "detail": "Week 14, 2024 vs Jesse"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "48.5",
+            "detail": "Week 4, 2024 vs Corey"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "49.2",
+            "detail": "Week 7, 2019 vs Kelly"
+          }
+        ]
+      },
+      {
+        "title": "Punching bag",
+        "blurb": "Most points against",
+        "group": "points",
+        "entries": [
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "12680.5",
+            "detail": "106.6 PA/G"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "12604.7",
+            "detail": "105.9 PA/G"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "12408.5",
+            "detail": "104.3 PA/G"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "12391.1",
+            "detail": "104.1 PA/G"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "12382.5",
+            "detail": "104.0 PA/G"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "12283.0",
+            "detail": "103.2 PA/G"
+          }
+        ]
+      },
+      {
+        "title": "Win machine",
+        "blurb": "Most wins",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "73",
+            "detail": "73-46"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "69",
+            "detail": "69-50"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "64",
+            "detail": "64-55"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "62",
+            "detail": "62-57"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "60",
+            "detail": "60-59"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "56",
+            "detail": "56-63"
+          }
+        ]
+      },
+      {
+        "title": "Best record",
+        "blurb": "Highest win percentage",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "61.3%",
+            "detail": "73-46"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "58.0%",
+            "detail": "69-50"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "54.1%",
+            "detail": "20-17"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "53.8%",
+            "detail": "64-55"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "52.1%",
+            "detail": "62-57"
+          },
+          {
+            "player_id": "kelly",
+            "player_name": "Kelly",
+            "value": "51.5%",
+            "detail": "35-33"
+          }
+        ]
+      },
+      {
+        "title": "Cellar",
+        "blurb": "Most losses",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "63",
+            "detail": "56-63"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "63",
+            "detail": "56-63"
+          },
+          {
+            "player_id": "jared",
+            "player_name": "Jared",
+            "value": "62",
+            "detail": "34-62"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "59",
+            "detail": "60-59"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "57",
+            "detail": "62-57"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "55",
+            "detail": "64-55"
+          }
+        ]
+      },
+      {
+        "title": "Rough sledding",
+        "blurb": "Lowest win percentage",
+        "group": "records",
+        "entries": [
+          {
+            "player_id": "steve",
+            "player_name": "Steve",
+            "value": "35.0%",
+            "detail": "14-26"
+          },
+          {
+            "player_id": "jared",
+            "player_name": "Jared",
+            "value": "35.4%",
+            "detail": "34-62"
+          },
+          {
+            "player_id": "jesse",
+            "player_name": "Jesse",
+            "value": "45.1%",
+            "detail": "37-45"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "47.1%",
+            "detail": "56-63"
+          },
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "47.1%",
+            "detail": "56-63"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "50.4%",
+            "detail": "60-59"
+          }
+        ]
+      },
+      {
+        "title": "Point margin",
+        "blurb": "Best average differential",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "+6.2",
+            "detail": "109.0 PPG / 102.8 PA/G"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "+2.6",
+            "detail": "105.8 PPG / 103.2 PA/G"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "+2.5",
+            "detail": "107.5 PPG / 105.0 PA/G"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "+1.8",
+            "detail": "106.0 PPG / 104.2 PA/G"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "+1.7",
+            "detail": "105.9 PPG / 104.1 PA/G"
+          },
+          {
+            "player_id": "derrick",
+            "player_name": "Derrick",
+            "value": "+1.6",
+            "detail": "106.2 PPG / 104.5 PA/G"
+          }
+        ]
+      },
+      {
+        "title": "Truck stick",
+        "blurb": "Biggest blowout win",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "+115.8",
+            "detail": "197.18–81.40 · Week 10, 2026 vs Chris"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+95.9",
+            "detail": "165.84–69.94 · Week 6, 2025 vs Chris"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "+95.0",
+            "detail": "187.82–92.86 · Week 4, 2022 vs Jake"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "+93.6",
+            "detail": "183.96–90.40 · Week 13, 2018 vs Mick"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+90.8",
+            "detail": "146.64–55.84 · Week 11, 2025 vs Zach"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "+90.3",
+            "detail": "157.30–67.00 · Week 7, 2024 vs Scott"
+          }
+        ]
+      },
+      {
+        "title": "Nail-biter",
+        "blurb": "Closest win",
+        "group": "margins",
+        "entries": [
+          {
+            "player_id": "jake",
+            "player_name": "Jake",
+            "value": "+0.02",
+            "detail": "114.92–114.90 · Week 14, 2022 vs Zach"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "+0.04",
+            "detail": "114.84–114.80 · Week 3, 2020 vs Jesse"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "+0.08",
+            "detail": "92.56–92.48 · Week 11, 2019 vs Corey"
+          },
+          {
+            "player_id": "mick",
+            "player_name": "Mick",
+            "value": "+0.10",
+            "detail": "102.18–102.08 · Week 6, 2018 vs Zach"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "+0.12",
+            "detail": "85.62–85.50 · Week 6, 2026 vs David"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "+0.18",
+            "detail": "98.40–98.22 · Week 6, 2021 vs Jesse"
+          }
+        ]
+      },
+      {
+        "title": "On fire",
+        "blurb": "Longest win streak",
+        "group": "streaks",
+        "entries": [
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "17",
+            "detail": "Week 11, 2023 vs Kelly"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "12",
+            "detail": "Week 8, 2022 vs Chris"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "11",
+            "detail": "Week 7, 2021 vs Jesse"
+          },
+          {
+            "player_id": "zach",
+            "player_name": "Zach",
+            "value": "10",
+            "detail": "Week 12, 2020 vs Jake"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "8",
+            "detail": "Week 2, 2023 vs Zach"
+          },
+          {
+            "player_id": "david",
+            "player_name": "David",
+            "value": "7",
+            "detail": "Week 10, 2024 vs Chris"
+          }
+        ]
+      },
+      {
+        "title": "Cold streak",
+        "blurb": "Longest losing streak",
+        "group": "streaks",
+        "entries": [
+          {
+            "player_id": "steve",
+            "player_name": "Steve",
+            "value": "15",
+            "detail": "Week 13, 2020 vs Derrick"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "9",
+            "detail": "Week 3, 2019 vs Steve"
+          },
+          {
+            "player_id": "jared",
+            "player_name": "Jared",
+            "value": "9",
+            "detail": "Week 5, 2023 vs Chris"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "8",
+            "detail": "Week 8, 2021 vs Jesse"
+          },
+          {
+            "player_id": "mick",
+            "player_name": "Mick",
+            "value": "8",
+            "detail": "Week 14, 2018 vs Jared"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "7",
+            "detail": "Week 3, 2022 vs Luke"
+          }
+        ]
+      },
+      {
+        "title": "Heist",
+        "blurb": "Fewest points in a win",
+        "group": "moments",
+        "entries": [
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "68.48",
+            "detail": "Beat Luke 68.48–63.70"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "70.42",
+            "detail": "Beat Mick 70.42–45.90"
+          },
+          {
+            "player_id": "aj",
+            "player_name": "AJ",
+            "value": "72.34",
+            "detail": "Beat Jared 72.34–71.62"
+          },
+          {
+            "player_id": "wyatt",
+            "player_name": "Wyatt",
+            "value": "74.72",
+            "detail": "Beat Zach 74.72–63.84"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "74.92",
+            "detail": "Beat Wyatt 74.92–70.68"
+          },
+          {
+            "player_id": "luke",
+            "player_name": "Luke",
+            "value": "76.48",
+            "detail": "Beat Chris 76.48–75.44"
+          }
+        ]
+      },
+      {
+        "title": "Heartbreak",
+        "blurb": "Most points in a loss",
+        "group": "moments",
+        "entries": [
+          {
+            "player_id": "jesse",
+            "player_name": "Jesse",
+            "value": "144.56",
+            "detail": "Lost to AJ 144.56–155.50"
+          },
+          {
+            "player_id": "scott",
+            "player_name": "Scott",
+            "value": "144.52",
+            "detail": "Lost to Ken 144.52–150.32"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "143.60",
+            "detail": "Lost to Zach 143.60–149.08"
+          },
+          {
+            "player_id": "steve",
+            "player_name": "Steve",
+            "value": "141.08",
+            "detail": "Lost to Unknown 141.08–148.88"
+          },
+          {
+            "player_id": "corey",
+            "player_name": "Corey",
+            "value": "140.12",
+            "detail": "Lost to Chris 140.12–142.82"
+          },
+          {
+            "player_id": "chris",
+            "player_name": "Chris",
+            "value": "134.78",
+            "detail": "Lost to Derrick 134.78–185.72"
+          }
+        ]
+      }
+    ]
+  }
+}

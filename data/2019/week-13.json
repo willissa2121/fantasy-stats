@@ -1,0 +1,163 @@
+{
+  "season": 2019,
+  "week": 13,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck My Ditka",
+          "score": 68.48,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "win"
+        },
+        {
+          "username": "luke",
+          "team_name": "Luke's Optimal Team",
+          "score": 63.7,
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 4.78,
+      "winner": "aj"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Barney’s Tail",
+          "score": 96.6,
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "result": "win"
+        },
+        {
+          "username": "jared",
+          "team_name": "Brownin Out",
+          "score": 89.2,
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 7.4,
+      "winner": "corey"
+    },
+    {
+      "teams": [
+        {
+          "username": "derrick",
+          "team_name": "Full Chubb",
+          "score": 128.1,
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "result": "win"
+        },
+        {
+          "username": "steve",
+          "team_name": "Auto Draft",
+          "score": 94.6,
+          "record": {
+            "wins": 5,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 33.5,
+      "winner": "derrick"
+    },
+    {
+      "teams": [
+        {
+          "username": "jake",
+          "team_name": "Area 51 Survivor",
+          "score": 95.52,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "No One",
+          "score": 102.02,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 6.5,
+      "winner": "wyatt"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Gin n’ JuJuice",
+          "score": 104.36,
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "result": "win"
+        },
+        {
+          "username": "scott",
+          "team_name": "scott's Team",
+          "score": 87.78,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 16.58,
+      "winner": "jesse"
+    },
+    {
+      "teams": [
+        {
+          "username": "kelly",
+          "team_name": "Kirkland Paleskins",
+          "score": 123.74,
+          "record": {
+            "wins": 9,
+            "losses": 4
+          },
+          "result": "win"
+        },
+        {
+          "username": "zach",
+          "team_name": "Jake Top Luke Bottom",
+          "score": 74.26,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 49.48,
+      "winner": "kelly"
+    }
+  ],
+  "source": "data/2019"
+}

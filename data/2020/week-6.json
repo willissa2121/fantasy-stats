@@ -1,0 +1,163 @@
+{
+  "season": 2020,
+  "week": 6,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck My Ditka",
+          "score": 88.14,
+          "record": {
+            "wins": 3,
+            "losses": 10
+          },
+          "result": "loss"
+        },
+        {
+          "username": "scott",
+          "team_name": "scott's Team",
+          "score": 112.02,
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 23.88,
+      "winner": "scott"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Barney’s Tail",
+          "score": 85.52,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "loss"
+        },
+        {
+          "username": "jake",
+          "team_name": "Area 51 Survivor",
+          "score": 118.74,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 33.22,
+      "winner": "jake"
+    },
+    {
+      "teams": [
+        {
+          "username": "derrick",
+          "team_name": "The Sex Panthers",
+          "score": 94.88,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "kelly",
+          "team_name": "Kirkland Signature",
+          "score": 122.9,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 28.02,
+      "winner": "kelly"
+    },
+    {
+      "teams": [
+        {
+          "username": "jared",
+          "team_name": "Brownin Out",
+          "score": 124.8,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "win"
+        },
+        {
+          "username": "steve",
+          "team_name": "Auto Draft",
+          "score": 121.64,
+          "record": {
+            "wins": 0,
+            "losses": 13
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 3.16,
+      "winner": "jared"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Super Kamario",
+          "score": 76.24,
+          "record": {
+            "wins": 8,
+            "losses": 5
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "No One",
+          "score": 80.82,
+          "record": {
+            "wins": 6,
+            "losses": 7
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 4.58,
+      "winner": "wyatt"
+    },
+    {
+      "teams": [
+        {
+          "username": "luke",
+          "team_name": "WUTHEL WILTHONNN",
+          "score": 83.96,
+          "record": {
+            "wins": 7,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "zach",
+          "team_name": "Jake Top Luke Bottom",
+          "score": 104.88,
+          "record": {
+            "wins": 11,
+            "losses": 2
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 20.92,
+      "winner": "zach"
+    }
+  ],
+  "source": "data/2020"
+}

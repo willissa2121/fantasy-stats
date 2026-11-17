@@ -1,0 +1,140 @@
+{
+  "season": 2026,
+  "week": 8,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "spoderdude",
+          "team_name": "Spoderdude",
+          "score": 123.1,
+          "record": {
+            "wins": 2,
+            "losses": 8
+          },
+          "result": "win"
+        },
+        {
+          "username": "AGarza509",
+          "team_name": "RIPMyDitka",
+          "score": 106.88,
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 16.22,
+      "winner": "spoderdude"
+    },
+    {
+      "teams": [
+        {
+          "username": "ChrisThies",
+          "team_name": "Top Dawg",
+          "score": 129.72,
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "result": "win"
+        },
+        {
+          "username": "SlikkNuttington",
+          "team_name": "George DUBYA Busherton",
+          "score": 94.06,
+          "record": {
+            "wins": 5,
+            "losses": 5
+          },
+          "badges": [
+            "Current Champ"
+          ],
+          "result": "loss"
+        }
+      ],
+      "margin": 35.66,
+      "winner": "ChrisThies"
+    },
+    {
+      "teams": [
+        {
+          "username": "ZachTodd94",
+          "team_name": "McConkey’s Donkeys",
+          "score": 109.08,
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "result": "win"
+        },
+        {
+          "username": "jakebuddyy",
+          "team_name": "Im Gonna Plumb",
+          "score": 96.58,
+          "record": {
+            "wins": 7,
+            "losses": 3
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 12.5,
+      "winner": "ZachTodd94"
+    },
+    {
+      "teams": [
+        {
+          "username": "dman98312",
+          "team_name": "The Sex Panthers",
+          "score": 68.5,
+          "record": {
+            "wins": 4,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "Sauuuuucy",
+          "team_name": "CTE",
+          "score": 96.36,
+          "record": {
+            "wins": 3,
+            "losses": 7
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 27.86,
+      "winner": "Sauuuuucy"
+    },
+    {
+      "teams": [
+        {
+          "username": "lukeypooky9",
+          "team_name": "HurtsDonut?",
+          "score": 113.08,
+          "record": {
+            "wins": 6,
+            "losses": 4
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt545454",
+          "team_name": "plz win",
+          "score": 167.78,
+          "result": "win",
+          "record": {
+            "wins": 7,
+            "losses": 3
+          }
+        }
+      ],
+      "margin": 54.7,
+      "winner": "wyatt545454"
+    }
+  ],
+  "source": "data/2026/week-8.txt"
+}

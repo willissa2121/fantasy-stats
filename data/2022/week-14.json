@@ -1,0 +1,163 @@
+{
+  "season": 2022,
+  "week": 14,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck my Ditka",
+          "score": 86.12,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        },
+        {
+          "username": "luke",
+          "team_name": "HENRYS MAHOMIES",
+          "score": 95.48,
+          "record": {
+            "wins": 11,
+            "losses": 3
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 9.36,
+      "winner": "luke"
+    },
+    {
+      "teams": [
+        {
+          "username": "chris",
+          "team_name": "Metcalf Mojo",
+          "score": 119.36,
+          "record": {
+            "wins": 12,
+            "losses": 2
+          },
+          "result": "win"
+        },
+        {
+          "username": "jared",
+          "team_name": "Golden Taint",
+          "score": 86.26,
+          "record": {
+            "wins": 2,
+            "losses": 12
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 33.1,
+      "winner": "chris"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Barney’s Tail",
+          "score": 109.88,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "Herbie's Partially Loaded",
+          "score": 126.58,
+          "record": {
+            "wins": 12,
+            "losses": 2
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 16.7,
+      "winner": "wyatt"
+    },
+    {
+      "teams": [
+        {
+          "username": "derrick",
+          "team_name": "The Sex Panthers",
+          "score": 58.1,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        },
+        {
+          "username": "scott",
+          "team_name": "Scott's Tots",
+          "score": 113.9,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 55.8,
+      "winner": "scott"
+    },
+    {
+      "teams": [
+        {
+          "username": "jake",
+          "team_name": "DubbaKaj",
+          "score": 114.92,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        },
+        {
+          "username": "zach",
+          "team_name": "Ant Man & Wasp Tuantumania",
+          "score": 114.9,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 0.02,
+      "winner": "jake"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Pittmonchan",
+          "score": 86.08,
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "result": "loss"
+        },
+        {
+          "username": "kelly",
+          "team_name": "Kelly's Pleasant Team",
+          "score": 118.16,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 32.08,
+      "winner": "kelly"
+    }
+  ],
+  "source": "data/2022"
+}

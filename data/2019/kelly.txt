@@ -1,0 +1,14 @@
+Wk	Opponent	Result	Score	 
+1	logo scott's Team	Win	89.22 - 84.36	
+2	logo Jake Top Luke Bottom	Win	111.76 - 64.02	
+3	logo Area 51 Survivor	Win	124.34 - 99.50	
+4	logo No One	Loss	125.40 - 125.82	
+5	logo Gin n’ JuJuice	Win	169.42 - 95.38	
+6	logo Full Chubb	Win	125.86 - 105.70	
+7	logo Barney’s Tail	Win	114.96 - 49.24	
+8	logo Luke's Optimal Team	Win	148.46 - 96.68	
+9	logo Suck My Ditka	Loss	87.50 - 148.44	
+10	logo Brownin Out	Loss	86.96 - 132.48	
+11	logo Auto Draft	Loss	93.54 - 119.44	
+12	logo scott's Team	Win	94.00 - 68.14	
+13	logo Jake Top Luke Bottom	Win	123.74 - 74.26

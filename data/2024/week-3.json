@@ -1,0 +1,163 @@
+{
+  "season": 2024,
+  "week": 3,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck my Ditka",
+          "score": 114.78,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "win"
+        },
+        {
+          "username": "derrick",
+          "team_name": "The Sex Panthers",
+          "score": 83.5,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 31.28,
+      "winner": "aj"
+    },
+    {
+      "teams": [
+        {
+          "username": "chris",
+          "team_name": "Dad Bod Era",
+          "score": 123.56,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        },
+        {
+          "username": "corey",
+          "team_name": "George DUB-YA Busherton",
+          "score": 114.68,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 8.88,
+      "winner": "chris"
+    },
+    {
+      "teams": [
+        {
+          "username": "david",
+          "team_name": "Mother Tucker",
+          "score": 111.08,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "loss"
+        },
+        {
+          "username": "jake",
+          "team_name": "DubbaKaj",
+          "score": 121.88,
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 10.8,
+      "winner": "jake"
+    },
+    {
+      "teams": [
+        {
+          "username": "jared",
+          "team_name": "Golden Taint",
+          "score": 81.68,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        },
+        {
+          "username": "luke",
+          "team_name": "The Alien Boyz",
+          "score": 112.32,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 30.64,
+      "winner": "luke"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Wallerus",
+          "score": 75.24,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "zach",
+          "team_name": "Air Raid Offense",
+          "score": 89.56,
+          "record": {
+            "wins": 2,
+            "losses": 12
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 14.32,
+      "winner": "zach"
+    },
+    {
+      "teams": [
+        {
+          "username": "scott",
+          "team_name": "Scott's Tots",
+          "score": 72.8,
+          "record": {
+            "wins": 4,
+            "losses": 10
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "No One",
+          "score": 77.08,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 4.28,
+      "winner": "wyatt"
+    }
+  ],
+  "source": "data/2024"
+}

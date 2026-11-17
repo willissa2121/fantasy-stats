@@ -1,0 +1,163 @@
+{
+  "season": 2018,
+  "week": 5,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck My Ditka",
+          "score": 110.24,
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "result": "loss"
+        },
+        {
+          "username": "zach",
+          "team_name": "The Last Avengers",
+          "score": 110.72,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 0.48,
+      "winner": "zach"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Baby Shreks",
+          "score": 99.88,
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "result": "loss"
+        },
+        {
+          "username": "steve",
+          "team_name": "Auto Draft",
+          "score": 112.6,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 12.72,
+      "winner": "steve"
+    },
+    {
+      "teams": [
+        {
+          "username": "jake",
+          "team_name": "Anakin Skywalker",
+          "score": 123.5,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        },
+        {
+          "username": "ken",
+          "team_name": "Rockout w ur Hawkout",
+          "score": 120.04,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 3.46,
+      "winner": "jake"
+    },
+    {
+      "teams": [
+        {
+          "username": "jared",
+          "team_name": "Mike (SEA)Hawk",
+          "score": 128.36,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        },
+        {
+          "username": "unknown",
+          "team_name": "Vato loco",
+          "score": 155.1,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 26.74,
+      "winner": "unknown"
+    },
+    {
+      "teams": [
+        {
+          "username": "luke",
+          "team_name": "WUTHEL WILLTHONN",
+          "score": 121.3,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        },
+        {
+          "username": "mick",
+          "team_name": "Mick's Team",
+          "score": 88.22,
+          "record": {
+            "wins": 1,
+            "losses": 13
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 33.08,
+      "winner": "luke"
+    },
+    {
+      "teams": [
+        {
+          "username": "scott",
+          "team_name": "scott's Team",
+          "score": 134.26,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "No One",
+          "score": 116.92,
+          "record": {
+            "wins": 11,
+            "losses": 3
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 17.34,
+      "winner": "scott"
+    }
+  ],
+  "source": "data/2018"
+}

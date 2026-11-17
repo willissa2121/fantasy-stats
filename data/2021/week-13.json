@@ -1,0 +1,163 @@
+{
+  "season": 2021,
+  "week": 13,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "aj",
+          "team_name": "Suck my Ditka",
+          "score": 91.02,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        },
+        {
+          "username": "jake",
+          "team_name": "DubbaKaj",
+          "score": 122.62,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 31.6,
+      "winner": "jake"
+    },
+    {
+      "teams": [
+        {
+          "username": "chris",
+          "team_name": "Metcalf Magic",
+          "score": 110.22,
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "result": "win"
+        },
+        {
+          "username": "zach",
+          "team_name": "Jake top Luke bottom",
+          "score": 84.56,
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 25.66,
+      "winner": "chris"
+    },
+    {
+      "teams": [
+        {
+          "username": "corey",
+          "team_name": "Barney’s Tail",
+          "score": 172.3,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "win"
+        },
+        {
+          "username": "kelly",
+          "team_name": "Kelly's Pleasant Team",
+          "score": 94.56,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 77.74,
+      "winner": "corey"
+    },
+    {
+      "teams": [
+        {
+          "username": "derrick",
+          "team_name": "Full Chubb",
+          "score": 122.58,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "win"
+        },
+        {
+          "username": "jared",
+          "team_name": "Golden Taint",
+          "score": 37.8,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 84.78,
+      "winner": "derrick"
+    },
+    {
+      "teams": [
+        {
+          "username": "jesse",
+          "team_name": "Kirk 30’s",
+          "score": 85.1,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "loss"
+        },
+        {
+          "username": "scott",
+          "team_name": "Scott's Tots",
+          "score": 107.8,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 22.7,
+      "winner": "scott"
+    },
+    {
+      "teams": [
+        {
+          "username": "luke",
+          "team_name": "WUTHELL WILTHON!!",
+          "score": 87.84,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt",
+          "team_name": "Gardner's Gardeners",
+          "score": 102.34,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 14.5,
+      "winner": "wyatt"
+    }
+  ],
+  "source": "data/2021"
+}

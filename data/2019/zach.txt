@@ -1,0 +1,14 @@
+Wk	Opponent	Result	Score	 
+1	logo Area 51 Survivor	Win	132.70 - 92.22	
+2	logo Kirkland Paleskins	Loss	64.02 - 111.76	
+3	logo Gin n’ JuJuice	Win	133.32 - 102.14	
+4	logo Full Chubb	Win	123.40 - 121.20	
+5	logo Barney’s Tail	Loss	105.24 - 134.84	
+6	logo Luke's Optimal Team	Win	145.20 - 79.12	
+7	logo Suck My Ditka	Loss	89.04 - 94.56	
+8	logo Brownin Out	Win	104.18 - 84.46	
+9	logo Auto Draft	Win	101.16 - 100.90	
+10	logo scott's Team	Loss	92.88 - 99.88	
+11	logo No One	Win	161.02 - 91.62	
+12	logo Area 51 Survivor	Win	138.04 - 60.86	
+13	logo Kirkland Paleskins	Loss	74.26 - 123.74

@@ -1,0 +1,140 @@
+{
+  "season": 2025,
+  "week": 4,
+  "matchups": [
+    {
+      "teams": [
+        {
+          "username": "spoderdude",
+          "team_name": "Spoderdude",
+          "score": 98.96,
+          "record": {
+            "wins": 7,
+            "losses": 7
+          },
+          "result": "loss"
+        },
+        {
+          "username": "SlikkNuttington",
+          "team_name": "George DUBYA Busherton",
+          "score": 124.52,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "badges": [
+            "Current Champ"
+          ],
+          "result": "win"
+        }
+      ],
+      "margin": 25.56,
+      "winner": "SlikkNuttington"
+    },
+    {
+      "teams": [
+        {
+          "username": "ZachTodd94",
+          "team_name": "McConkey’s Donkeys",
+          "score": 89.62,
+          "record": {
+            "wins": 9,
+            "losses": 5
+          },
+          "result": "loss"
+        },
+        {
+          "username": "dman98312",
+          "team_name": "The Sex Panthers",
+          "score": 103.6,
+          "record": {
+            "wins": 5,
+            "losses": 9
+          },
+          "result": "win"
+        }
+      ],
+      "margin": 13.98,
+      "winner": "dman98312"
+    },
+    {
+      "teams": [
+        {
+          "username": "ChrisThies",
+          "team_name": "Top Dawg",
+          "score": 138.98,
+          "record": {
+            "wins": 6,
+            "losses": 8
+          },
+          "result": "win"
+        },
+        {
+          "username": "Sauuuuucy",
+          "team_name": "Team Sauuuuucy",
+          "score": 126.3,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 12.68,
+      "winner": "ChrisThies"
+    },
+    {
+      "teams": [
+        {
+          "username": "lukeypooky9",
+          "team_name": "First to Worst",
+          "score": 119.78,
+          "record": {
+            "wins": 3,
+            "losses": 11
+          },
+          "result": "win"
+        },
+        {
+          "username": "jakebuddyy",
+          "team_name": "Im Gonna Plumb",
+          "score": 117.36,
+          "record": {
+            "wins": 10,
+            "losses": 4
+          },
+          "result": "loss"
+        }
+      ],
+      "margin": 2.42,
+      "winner": "lukeypooky9"
+    },
+    {
+      "teams": [
+        {
+          "username": "AGarza509",
+          "team_name": "SuckMyDitka",
+          "score": 104.72,
+          "record": {
+            "wins": 8,
+            "losses": 6
+          },
+          "result": "loss"
+        },
+        {
+          "username": "wyatt545454",
+          "team_name": "plz win",
+          "score": 112.18,
+          "result": "win",
+          "record": {
+            "wins": 5,
+            "losses": 9
+          }
+        }
+      ],
+      "margin": 7.46,
+      "winner": "wyatt545454"
+    }
+  ],
+  "source": "data/2025/week-4.txt"
+}

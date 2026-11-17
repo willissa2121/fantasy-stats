@@ -1,0 +1,14 @@
+Wk	Opponent	Result	Score	 
+1	logo Full Chubb	Win	159.52 - 88.50	
+2	logo Barney’s Tail	Win	102.56 - 95.42	
+3	logo Luke's Optimal Team	Loss	96.44 - 99.62	
+4	logo Suck My Ditka	Loss	71.62 - 72.34	
+5	logo No One	Loss	88.92 - 135.98	
+6	logo Auto Draft	Loss	86.72 - 127.04	
+7	logo scott's Team	Loss	77.56 - 111.66	
+8	logo Jake Top Luke Bottom	Loss	84.46 - 104.18	
+9	logo Area 51 Survivor	Loss	82.58 - 86.64	
+10	logo Kirkland Paleskins	Win	132.48 - 86.96	
+11	logo Gin n’ JuJuice	Win	135.66 - 73.72	
+12	logo Full Chubb	Win	88.18 - 66.00	
+13	logo Barney’s Tail	Loss	89.20 - 96.60
