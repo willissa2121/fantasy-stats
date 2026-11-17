@@ -215,6 +215,26 @@ def build() -> dict:
             default=0,
         )
 
+    active_ids = {
+        player["id"] for player in players if player["last_season"] == current_season
+    }
+    active_games = {
+        player_id: games
+        for player_id, games in games_by_player.items()
+        if player_id in active_ids
+    }
+
+    def awards_for(source: dict[str, list[dict]]) -> dict:
+        return {
+            "by_season": {
+                str(season): build_awards(source, season, min_gp=4)
+                for season in seasons
+            },
+            "all_time": build_awards(source, None, min_gp=20),
+        }
+
+    everyone = awards_for(games_by_player)
+    active_only = awards_for(active_games)
     return {
         "league": {
             "name": "League History",
@@ -226,11 +246,10 @@ def build() -> dict:
             "current_season": current_season,
             "through_week": latest_week(current_season),
             "through_weeks": {str(season): latest_week(season) for season in seasons},
-            "by_season": {
-                str(season): build_awards(games_by_player, season, min_gp=4)
-                for season in seasons
-            },
-            "all_time": build_awards(games_by_player, None, min_gp=20),
+            "by_season": everyone["by_season"],
+            "all_time": everyone["all_time"],
+            "by_season_active": active_only["by_season"],
+            "all_time_active": active_only["all_time"],
         },
     }
 

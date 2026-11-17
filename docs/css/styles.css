@@ -21,8 +21,8 @@
   --career-bg: #1a202b;
   --leader-hover: #1c232f;
   --leader-more: #10151e;
-  --legacy-bg: #11161e;
-  --legacy-border: #2f3846;
+  --retired-bg: #11161e;
+  --retired-border: #2f3846;
   --card-hover-border: rgba(225, 29, 46, 0.45);
   --select-bg: #1c232f;
   --select-text: #eef1f6;
@@ -50,8 +50,8 @@ html[data-theme="light"] {
   --career-bg: #f6f7fa;
   --leader-hover: #f7f8fb;
   --leader-more: #eef0f4;
-  --legacy-bg: #f7f8fb;
-  --legacy-border: #d9dde6;
+  --retired-bg: #f7f8fb;
+  --retired-border: #d9dde6;
   --card-hover-border: rgba(225, 29, 46, 0.35);
   --select-bg: #ffffff;
   --select-text: #12151a;
@@ -297,6 +297,71 @@ html[data-theme="light"] .icon-sun {
   outline: none;
   border-color: color-mix(in srgb, var(--red) 55%, var(--line));
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--red) 18%, transparent);
+}
+
+.scope-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.active-toggle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--hero-muted);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+}
+
+.active-toggle input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+
+.active-toggle .switch {
+  width: 36px;
+  height: 20px;
+  flex: none;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.18);
+  position: relative;
+  transition: background 0.2s ease;
+}
+
+.active-toggle .switch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  transition: transform 0.2s ease;
+}
+
+.active-toggle input:checked + .switch {
+  background: var(--red);
+}
+
+.active-toggle input:checked + .switch::after {
+  transform: translateX(16px);
+}
+
+.active-toggle input:focus-visible + .switch {
+  outline: 2px solid var(--red);
+  outline-offset: 3px;
+}
+
+.active-toggle:hover {
+  color: #fff;
 }
 
 .stat-page {
@@ -594,25 +659,25 @@ html[data-theme="light"] .icon-sun {
   text-transform: uppercase;
 }
 
-.legacy {
+.retired {
   margin: 12px 0 72px;
   padding: 20px 18px 6px;
-  border: 1px solid var(--legacy-border);
+  border: 1px solid var(--retired-border);
   border-radius: var(--radius);
-  background: var(--legacy-bg);
+  background: var(--retired-bg);
 }
 
-.legacy .roster-head h2 {
+.retired .roster-head h2 {
   color: var(--muted);
 }
 
-.legacy .card {
+.retired .card {
   background: var(--paper);
   box-shadow: none;
   border: 1px solid var(--line);
 }
 
-.legacy .avatar {
+.retired .avatar {
   filter: grayscale(0.35);
   opacity: 0.9;
 }

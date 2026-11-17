@@ -121,9 +121,9 @@ function sectionHtml(title, subtitle, players, extraClass = "") {
   `;
 }
 
-function renderRosters(active, legacy) {
+function renderRosters(active, retired) {
   const root = document.getElementById("rosters");
-  if (!active.length && !legacy.length) {
+  if (!active.length && !retired.length) {
     root.innerHTML = `<p class="empty">No players match that search.</p>`;
     return;
   }
@@ -134,10 +134,10 @@ function renderRosters(active, legacy) {
       active
     ),
     sectionHtml(
-      "Legacy players",
+      "Retired players",
       "No longer in the league",
-      legacy,
-      "legacy"
+      retired,
+      "retired"
     ),
   ].join("");
 }
@@ -164,8 +164,8 @@ async function bootIndex() {
         return haystack.includes(query);
       });
       const active = filtered.filter((player) => player.last_season === current);
-      const legacy = filtered.filter((player) => player.last_season !== current);
-      renderRosters(active, legacy);
+      const retired = filtered.filter((player) => player.last_season !== current);
+      renderRosters(active, retired);
     };
     search.addEventListener("input", draw);
     draw();
@@ -424,6 +424,7 @@ async function bootStats() {
     const league = await loadLeague();
     const copy = document.getElementById("hero-copy");
     const select = document.getElementById("scope");
+    const activeOnly = document.getElementById("active-only");
     const current = league.stats.current_season;
     const years = [...league.league.seasons].sort((a, b) => b - a);
     select.innerHTML = [
@@ -431,20 +432,34 @@ async function bootStats() {
       `<option value="all_time">All time</option>`,
     ].join("");
     select.value = String(current);
+    try {
+      activeOnly.checked = localStorage.getItem("fs-active-only") === "1";
+    } catch (_) {
+      /* keep default */
+    }
     const draw = () => {
+      const onlyActive = Boolean(activeOnly?.checked);
+      try {
+        localStorage.setItem("fs-active-only", onlyActive ? "1" : "0");
+      } catch (_) {
+        /* ignore quota / private mode */
+      }
       const allTime = select.value === "all_time";
+      const suffix = onlyActive ? " · active players only" : "";
       if (allTime) {
-        copy.textContent = `Every season from ${years[years.length - 1]}–${current}`;
-        renderAwards(league.stats.all_time);
+        copy.textContent = `Every season from ${years[years.length - 1]}–${current}${suffix}`;
+        renderAwards(onlyActive ? league.stats.all_time_active : league.stats.all_time);
         return;
       }
       const year = select.value;
       const week = (league.stats.through_weeks || {})[year] || league.stats.through_week;
-      copy.textContent = `${year} regular season · through week ${week}`;
-      renderAwards((league.stats.by_season || {})[year] || []);
+      copy.textContent = `${year} regular season · through week ${week}${suffix}`;
+      const seasons = onlyActive ? league.stats.by_season_active : league.stats.by_season;
+      renderAwards((seasons || {})[year] || []);
     };
     bindAwardExpand(root);
     select.addEventListener("change", draw);
+    activeOnly?.addEventListener("change", draw);
     draw();
   } catch (error) {
     root.innerHTML = `<p class="empty">${error.message}</p>`;

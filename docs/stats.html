@@ -60,10 +60,17 @@
           <h1>League leaders</h1>
           <p id="hero-copy">Loading stats…</p>
         </div>
-        <label class="scope">
-          <span>Show</span>
-          <select id="scope"></select>
-        </label>
+        <div class="scope-stack">
+          <label class="scope">
+            <span>Show</span>
+            <select id="scope"></select>
+          </label>
+          <label class="active-toggle">
+            <input id="active-only" type="checkbox" />
+            <span class="switch" aria-hidden="true"></span>
+            <span>Only active players</span>
+          </label>
+        </div>
       </div>
     </section>
     <main class="wrap" id="stats-root">

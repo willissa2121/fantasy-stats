@@ -6,8 +6,8 @@ The site lives in `docs/` and is meant to be served with GitHub Pages (`main` br
 
 ## What’s on the site
 
-- **Players** — Active vs legacy rosters, search, and a profile for each owner (record, points, season-by-season table).
-- **Stats** — Leaders for any season from 2018–2026, or all-time (points, records, blowouts, streaks, and oddities). Expand a row to see the next five in that category. Click the avatar/name to open a profile; click the rest of the row to expand.
+- **Players** — Active vs retired rosters, search, and a profile for each owner (record, points, season-by-season table).
+- **Stats** — Leaders for any season from 2018–2026, or all-time (points, records, blowouts, streaks, and oddities). Toggle **Only active players** to hide retired owners. Expand a row to see the next five in that category. Click the avatar/name to open a profile; click the rest of the row to expand.
 - **Theme** — Dark mode by default, with a toggle that persists in the browser.
 
 Sleeper handles and older first-name dumps are merged into one identity per owner in `build_site_data.py` (for example David / Sauuuuucy).
